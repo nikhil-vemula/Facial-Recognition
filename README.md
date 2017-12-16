@@ -3,7 +3,7 @@
 * Facial Detection on webcam
 * Facial Recognition using training data
 
-##Links
+## Links
 * https://www.superdatascience.com/opencv-face-recognition/
 
 ## Technology Used
